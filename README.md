@@ -1,7 +1,8 @@
 # Espaço destinado a execução de Atividades prévias do Projeto Final Iartes
 
 # Sprint em execução
-## Gravar Caminho/log com appium
+## 1.Gravar Caminho/log com appium
+### Etapas:
 
 1. Pesquisar como pesquisar como: 
 
