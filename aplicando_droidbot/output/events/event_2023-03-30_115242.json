@@ -1,0 +1,49 @@
+{
+  "tag": "2023-03-30_115242",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1659
+        ],
+        [
+          540,
+          1794
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/btnAddIncome",
+      "checked": false,
+      "text": "ADD INCOME",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "540*135",
+      "signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddIncome[text]ADD INCOME[enabled,,]",
+      "view_str": "c1b9d29cb637db32076c041c7daca152",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddIncome"
+    }
+  },
+  "start_state": "598d7f668f76e97d0698f06c9734f737",
+  "stop_state": "15f4ac4c7f249795f7c93b3868000af5",
+  "event_str": "TouchEvent(state=598d7f668f76e97d0698f06c9734f737, view=c1b9d29cb637db32076c041c7daca152(MainActivity/Button-ADD INCOME))"
+}

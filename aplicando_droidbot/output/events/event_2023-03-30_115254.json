@@ -1,0 +1,49 @@
+{
+  "tag": "2023-03-30_115254",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          540,
+          1659
+        ],
+        [
+          1080,
+          1794
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/btnAddExpense",
+      "checked": false,
+      "text": "ADD EXPENSE",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 45,
+      "size": "540*135",
+      "signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddExpense[text]ADD EXPENSE[enabled,,]",
+      "view_str": "85154b240a51145a1a17a4c3c7d4974f",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddExpense"
+    }
+  },
+  "start_state": "598d7f668f76e97d0698f06c9734f737",
+  "stop_state": "d03646269bc3d1a980dcb9fc3d85d9ba",
+  "event_str": "TouchEvent(state=598d7f668f76e97d0698f06c9734f737, view=85154b240a51145a1a17a4c3c7d4974f(MainActivity/Button-ADD EXPENS))"
+}

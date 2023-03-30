@@ -1,0 +1,11 @@
+{
+  "tag": "2023-03-30_115050",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.blogspot.e_kanivets.moneytracker/com.blogspot.e_kanivets.moneytracker.activity.record.MainActivity"
+  },
+  "start_state": "11e24ec1726978be35422a1c41d30eaa",
+  "stop_state": "05385d232563c40e6c1ff58678f849aa",
+  "event_str": "IntentEvent(intent='am start com.blogspot.e_kanivets.moneytracker/com.blogspot.e_kanivets.moneytracker.activity.record.MainActivity')"
+}

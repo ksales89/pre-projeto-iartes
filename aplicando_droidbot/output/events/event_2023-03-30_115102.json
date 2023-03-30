@@ -1,0 +1,49 @@
+{
+  "tag": "2023-03-30_115102",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.google.android.apps.nexuslauncher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Apps list",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          517,
+          1366
+        ],
+        [
+          564,
+          1382
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "47*16",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "9b9a33427078d9f38ebb4f4ab3f52814",
+      "content_free_signature": "[class]android.view.View[resource_id]None"
+    }
+  },
+  "start_state": "598d7f668f76e97d0698f06c9734f737",
+  "stop_state": "598d7f668f76e97d0698f06c9734f737",
+  "event_str": "TouchEvent(state=598d7f668f76e97d0698f06c9734f737, view=9b9a33427078d9f38ebb4f4ab3f52814(MainActivity/View-))"
+}

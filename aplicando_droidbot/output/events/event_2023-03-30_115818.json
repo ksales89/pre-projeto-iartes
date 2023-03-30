@@ -1,0 +1,49 @@
+{
+  "tag": "2023-03-30_115818",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "06 January 2000",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          598,
+          945
+        ],
+        [
+          714,
+          1050
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "6",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 53,
+      "size": "116*105",
+      "signature": "[class]android.view.View[resource_id]None[text]6[enabled,,]",
+      "view_str": "bbae7d521fabafed44e9d1991630d513",
+      "content_free_signature": "[class]android.view.View[resource_id]None"
+    }
+  },
+  "start_state": "26901d775b2fd4015456f5cb3d5c482e",
+  "stop_state": "cfd2039184b48f2f1581cdfc78340243",
+  "event_str": "TouchEvent(state=26901d775b2fd4015456f5cb3d5c482e, view=bbae7d521fabafed44e9d1991630d513(MainActivity/View-6))"
+}

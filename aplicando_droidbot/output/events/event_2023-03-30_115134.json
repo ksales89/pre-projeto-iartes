@@ -1,0 +1,49 @@
+{
+  "tag": "2023-03-30_115134",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          723,
+          73
+        ],
+        [
+          954,
+          199
+        ]
+      ],
+      "resource_id": "android:id/text1",
+      "checked": false,
+      "text": "Day",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "231*126",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]Day[enabled,,]",
+      "view_str": "4f4859c18d241dfd20f1a6ba2ea2e74c",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1"
+    }
+  },
+  "start_state": "b33983228c7ee3251b3677a84b8467d1",
+  "stop_state": "4de0f84af5353c899800ba9d70785746",
+  "event_str": "TouchEvent(state=b33983228c7ee3251b3677a84b8467d1, view=4f4859c18d241dfd20f1a6ba2ea2e74c(MainActivity/TextView-Day))"
+}

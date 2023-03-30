@@ -1,0 +1,98 @@
+Activity Resolver Table:
+  Schemes:
+      db-5lqugcckdy9y6lj:
+        cb6846 com.blogspot.e_kanivets.moneytracker/com.dropbox.core.android.AuthActivity filter c84ea07
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "db-5lqugcckdy9y6lj"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        1d5ba88 com.blogspot.e_kanivets.moneytracker/.activity.record.MainActivity filter 4060c21
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.blogspot.e_kanivets.moneytracker/androidx.core.content.FileProvider:
+    Provider{cb2c5c3 com.blogspot.e_kanivets.moneytracker/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [com.blogspot.e_kanivets.moneytracker]:
+    Provider{cb2c5c3 com.blogspot.e_kanivets.moneytracker/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{831ce40 com.blogspot.e_kanivets.moneytracker}
+
+Key Set Manager:
+  [com.blogspot.e_kanivets.moneytracker]
+      Signing KeySets: 36
+
+Packages:
+  Package [com.blogspot.e_kanivets.moneytracker] (f8c8179):
+    userId=10154
+    pkg=Package{adc2ebe com.blogspot.e_kanivets.moneytracker}
+    codePath=/data/app/~~oc7abIqpq8ap6lhMau1urw==/com.blogspot.e_kanivets.moneytracker-1vmf6Wjwgs61vkpzqPd1Vg==
+    resourcePath=/data/app/~~oc7abIqpq8ap6lhMau1urw==/com.blogspot.e_kanivets.moneytracker-1vmf6Wjwgs61vkpzqPd1Vg==
+    legacyNativeLibraryDir=/data/app/~~oc7abIqpq8ap6lhMau1urw==/com.blogspot.e_kanivets.moneytracker-1vmf6Wjwgs61vkpzqPd1Vg==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=37 minSdk=21 targetSdk=31
+    versionName=2.1.5
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{adc2ebe com.blogspot.e_kanivets.moneytracker}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.blogspot.e_kanivets.moneytracker
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-03-29 16:43:37
+    firstInstallTime=2023-03-29 16:43:37
+    lastUpdateTime=2023-03-29 16:43:37
+    signatures=PackageSignatures{af1fb1f version:3, signatures:[1ed77cc0], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=123609 installed=true hidden=false suspended=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=6
+  User 0:
+    seq=0, package=com.android.traceur
+    seq=4, package=com.google.android.gms
+    seq=5, package=io.github.ylimit.droidbotapp
+
+
+Dexopt state:
+  [com.blogspot.e_kanivets.moneytracker]
+    path: /data/app/~~oc7abIqpq8ap6lhMau1urw==/com.blogspot.e_kanivets.moneytracker-1vmf6Wjwgs61vkpzqPd1Vg==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.blogspot.e_kanivets.moneytracker]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

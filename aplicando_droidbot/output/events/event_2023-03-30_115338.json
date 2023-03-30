@@ -1,0 +1,51 @@
+{
+  "tag": "2023-03-30_115338",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          723,
+          73
+        ],
+        [
+          1080,
+          199
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/spinner",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 8,
+      "temp_id": 11,
+      "size": "357*126",
+      "signature": "[class]android.widget.Spinner[resource_id]com.blogspot.e_kanivets.moneytracker:id/spinner[text]None[enabled,,]",
+      "view_str": "abcc1aeb8d7141cccfed8ef33fcf8ffa",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]com.blogspot.e_kanivets.moneytracker:id/spinner"
+    }
+  },
+  "start_state": "68884d32ce0cfaefd4e74311d256db01",
+  "stop_state": "986402b765ea39fa19a684d5c2496a6c",
+  "event_str": "TouchEvent(state=68884d32ce0cfaefd4e74311d256db01, view=abcc1aeb8d7141cccfed8ef33fcf8ffa(MainActivity/Spinner-))"
+}

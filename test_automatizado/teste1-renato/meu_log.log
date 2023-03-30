@@ -1,0 +1,25 @@
+2023-02-16 10:22:49,015 - root - INFO - Teste iniciado
+2023-02-16 10:29:38,123 - root - INFO - Teste iniciado
+2023-02-16 10:29:38,510 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:4723/wd/hub/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"platformName": "Android", "appium:deviceName": "Android Emulator", "appium:app": "/path/to/app.apk", "appium:automationName": "UiAutomator2", "appium:logLevel": "debug", "appium:chromeOptions": {"w3c": false}}}}
+2023-02-16 10:29:38,511 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:4723
+2023-02-16 10:29:38,515 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/wd/hub/session'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2023-02-16 10:29:38,515 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdef23a8550>: Failed to establish a new connection: [Errno 111] Connection refused')': /wd/hub/session
+2023-02-16 10:29:38,516 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (2): localhost:4723
+2023-02-16 10:29:38,517 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/wd/hub/session'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-02-16 10:29:38,517 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdef23a8880>: Failed to establish a new connection: [Errno 111] Connection refused')': /wd/hub/session
+2023-02-16 10:29:38,517 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (3): localhost:4723
+2023-02-16 10:29:38,518 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/wd/hub/session'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2023-02-16 10:29:38,518 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdef23a88b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /wd/hub/session
+2023-02-16 10:29:38,518 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (4): localhost:4723
+2023-02-16 10:38:09,156 - root - INFO - Teste iniciado
+2023-02-16 10:38:09,415 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:4723/wd/hub/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"platformName": "Android", "appium:deviceName": "Android Emulator", "appium:app": "/path/to/app.apk", "appium:automationName": "UiAutomator2", "appium:logLevel": "debug", "appium:chromeOptions": {"w3c": false}}}}
+2023-02-16 10:38:09,416 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:4723
+2023-02-16 10:38:09,439 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/wd/hub/session'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2023-02-16 10:38:09,440 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f27ced38460>: Failed to establish a new connection: [Errno 111] Connection refused')': /wd/hub/session
+2023-02-16 10:38:09,441 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (2): localhost:4723
+2023-02-16 10:38:09,442 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/wd/hub/session'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-02-16 10:38:09,442 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f27ced38790>: Failed to establish a new connection: [Errno 111] Connection refused')': /wd/hub/session
+2023-02-16 10:38:09,443 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (3): localhost:4723
+2023-02-16 10:38:09,443 - urllib3.util.retry - DEBUG - Incremented Retry for (url='/wd/hub/session'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2023-02-16 10:38:09,444 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f27ced387c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /wd/hub/session
+2023-02-16 10:38:09,444 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (4): localhost:4723
